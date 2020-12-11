@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AirSoft">
+  <DataContextMoniker Name="/AirSoftDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a219a6b1-20f5-4851-86ef-d889afedc6d6" absoluteBounds="4.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/AirSoftDataContext/Player" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f4d2fa0-35bb-4b66-80ed-84edb76345ed" absoluteBounds="4.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f7dd2b0a-4415-46cb-9f95-490bd88c4055" absoluteBounds="1, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AirSoftDataContext/UserMaster" />
+      <nestedChildShapes>
+        <elementListCompartment Id="431c4428-ba9a-405c-a85f-e9dc59a6b12f" absoluteBounds="1.0150000000000001, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="78a965b3-be7d-48b6-86c3-9b05060479c1" absoluteBounds="7.5, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AirSoftDataContext/tblGroup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c6a3a357-81e0-448a-989c-56f5191ff728" absoluteBounds="7.5150000000000006, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
